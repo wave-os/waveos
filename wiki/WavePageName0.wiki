@@ -1,0 +1,18 @@
+#summary One-sentence summary of this page.
+
+= Introduction =
+
+Wave OS is an upcoming opensource operating system made with the non tech user in mind, but still aiming to provide the strongess and reliabilty of *nix-like systems. This is planed to be a complete solution and not just a 
+software package collection, or distribution.
+
+This project is under heavy development in it's most basic stage, but soon it will go more noticed if all goes well.
+
+Please have in mind that the web aspect of wave os is being worked on and changes on our website and this developer tool can happen often as we do our best to improve usefulness.
+
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
